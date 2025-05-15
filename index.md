@@ -1,7 +1,4 @@
----
-layout: default
-title: Mario Caneva – Project Summaries
----
+<link rel="stylesheet" href="style.css">
 
 ## Welcome  
 This blog summarizes my major research projects, blending political theory, semiotics, and digital transformations.
