@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-
 ---
 layout: default
 title: Mario Caneva – Project Summaries
